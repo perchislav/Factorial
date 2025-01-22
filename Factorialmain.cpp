@@ -1,6 +1,3 @@
-#define _CRT_SECURE_NO_WARNINGS //для работы старых функций в vs
-
-
 #include <iostream>
 #include "Factorial.h"
 
